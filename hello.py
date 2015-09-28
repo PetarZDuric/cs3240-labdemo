@@ -3,4 +3,8 @@
 #Lab Section 101
 #Due 9/28/2015
 
-print("hello");
+def greetings(msg):
+    print(msg);
+
+greetings("hello");
+
