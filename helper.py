@@ -4,4 +4,4 @@
 #Due 9/28/2015
 
 def greetings(msg):
-    print(msg);
+    print(msg+"!!!!!");
